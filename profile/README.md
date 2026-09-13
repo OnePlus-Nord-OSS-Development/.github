@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/sreeshankark/sreeshankark/main/images/oneplus_logo.png" /> 
-
-
-# NORD (avicii)
+<img src="https://raw.githubusercontent.com/sreeshankark/sreeshankark/main/images/1089254768729653251.png" align="center" /> 
 
 OnePlus Nord (codename:- avicii) is the first upper mid-range non-flagship smartphone from OnePlus Technology Co., Ltd. released in the year 2020.
 
@@ -35,3 +32,18 @@ The phone is available in 2 variants based on region: AC2001 (India) & AC2003 (E
 | Fingerprint | Goodix (In-display, optical) |
 | Sensors | Accelerometer, Electronic compass, Gyroscope, Ambient light sensor, Proximity sensor, Sensor Core |
 | Extras | Bluetooth 5.1 (support aptX & aptX HD & LDAC & AAC), NFC enabled |
+
+# Available custom roms:
+Note: Only official ROMs >Android 12 are listed.
+
+| ROM | Maintainer | isMaintained | Android Version | Download |
+|--------|---------|------------|--------|------|
+| Axion AOSP | [Sreeshankar K](https://github.com/sreeshankark) | true | 16 | https://www.axionos.org/download/avicii |
+| Project Infinity X | [Sreeshankar K](https://github.com/sreeshankark) | true | 16 | https://projectinfinity-x.com/downloads/avicii |
+| Lunaris AOSP | [lost // (dead)](https://github.com/lostsignal-50) | true | 16 | https://sourceforge.net/projects/ghosuto/files/avicii/ |
+| Project Matrixx | [Kaveer Rana](https://github.com/Kaveer2009) | false | 16 | https://sourceforge.net/projects/projectmatrixx/files/Android-16/avicii/ |
+| Project ASCP | [Kaveer Rana](https://github.com/Kaveer2009) | false | 16 | https://sourceforge.net/projects/project-ascp/files/avicii/ |
+| Lineage OS | [Akshay Kakatkar](https://github.com/kakatkarakshay) | false | 14 | https://lineage-archive.timschumi.net/#avicii |
+| crDroid | [Amol Amrit](https://github.com/amolamrit) | false | 14 | https://crdroid.net/downloads#avicii |
+| Ancient ROM | [Sreeshankar K](https://github.com/sreeshankark) | false | 13 | https://sourceforge.net/projects/ancientrom/files/avicii/ |
+| Pixel Experience | [Akshay Kakatkar](https://github.com/kakatkarakshay) | false | 13 | https://get.pixelexperience.org/avicii |
